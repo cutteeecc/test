@@ -1,0 +1,83 @@
+维护者：cuteceleste
+版本号：1.0
+更新时间：2025-09-28
+
+词条
+
+
+// 主要角色
+Seidou = 青道
+Sawamura Eijun = 泽村 荣纯
+Miyuki Kazuya = 御幸 一也
+Kuramochi Youichi = 仓持 洋一
+Kominato Haruichi = 小凑 春市
+Kominato Ryousuke = 小凑 亮介
+Furuya Satoru = 降谷 晓
+Takigawa Chris Yuu = 泷川 克里斯 优
+Isashiki Jun = 伊佐敷 纯
+Yuuki Tetsuya = 结城 哲也
+Masuko Tooru = 增子 透
+Tanba Kouichirou = 丹波 光一郎
+Maezono Kenta = 前园 健太
+Higasa Shouji = 樋笠 昭二
+Kawakami Norifumi = 川上 宪史
+Hideaki Toujou = 东条 秀明
+Shirasu Kenjiro = 白州 健二郎
+Okumura Koushuu = 奥村 光舟
+Seto Takuma = 濑户 拓马
+Yui Kaoru = 由井 薰
+Yuuki Masashi = 结城 将司
+
+// 经理
+Watanabe Hisashi = 渡边 久志
+// 吉川 春乃
+// 藤原 贵子
+// 梅本 幸子
+// 夏川 唯
+
+// 教练团
+Kataoka Tesshin = 片冈 铁心
+Takashima Rei = 高岛 礼
+Ochiai Hiromitsu = 落合 博光
+
+// 稻城实业
+Inashiro Industrial = 稻城 实业
+Narumiya Mei = 成宫 鸣
+Shirakawa Katsuyuki = 白河 胜之
+Kamiya Carlos Toshiki = 神谷 卡尔罗斯 俊树
+Harada Masatoshi = 原田 雅功
+
+// 药师高中
+Todoroki Raichi = 轰 雷市
+
+// 市大三
+Manaka Kaname = 真中 要
+
+
+// 帝东高中
+Mukai Taiyou = 向井 太阳
+
+// 白龙高中
+Mima Souichirou = 美马 总一郎
+
+// 樱泽高中
+Sakurazawa High = 樱泽 高中
+
+// 其他名词
+Misawa = 御泽
+Harucchi = 小春
+
+通用词条
+cutter = 卡特球
+knuckleball = 蝴蝶球
+batter = 打者
+dead ball = 触身球
+Masa-san = 雅前辈
+Ryou-san = 亮前辈
+
+
+禁翻词条
+yips
+Boss
+Cap
+
