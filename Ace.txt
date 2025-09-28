@@ -27,6 +27,7 @@ Okumura Koushuu = 奥村 光舟
 Seto Takuma = 濑户 拓马
 Yui Kaoru = 由井 薰
 Yuuki Masashi = 结城 将司
+Azuma = 东
 
 // 经理
 Watanabe Hisashi = 渡边 久志
@@ -80,4 +81,5 @@ Ryou-san = 亮前辈
 yips
 Boss
 Cap
+
 
