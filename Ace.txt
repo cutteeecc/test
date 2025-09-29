@@ -38,7 +38,7 @@ Watanabe Hisashi = 渡边 久志
 
 // 亲友团
 Sawamura Eitoku = 泽村 荣德
-// 苍月若菜
+Wakana Aotsuki = 苍月若菜
 
 // 教练团
 Kataoka Tesshin = 片冈 铁心
@@ -92,6 +92,7 @@ dead ball = 触身球
 yips
 Boss
 Cap
+
 
 
 
