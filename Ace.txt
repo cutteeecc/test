@@ -54,7 +54,6 @@ Todoroki Raichi = 轰 雷市
 // 市大三
 Manaka Kaname = 真中 要
 
-
 // 帝东高中
 Mukai Taiyou = 向井 太阳
 
@@ -72,20 +71,21 @@ Nabe = 渡边
 Azuma = 东
 Nori = 阿宪
 Zono = 前园
+Kyahaha = 呀哈哈
+Masa-san = 雅前辈
+Ryou-san = 亮前辈
 
 通用词条
 cutter = 卡特球
 knuckleball = 蝴蝶球
 batter = 打者
 dead ball = 触身球
-Masa-san = 雅前辈
-Ryou-san = 亮前辈
-
 
 禁翻词条
 yips
 Boss
 Cap
+
 
 
 
