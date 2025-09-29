@@ -27,7 +27,7 @@ Okumura Koushuu = 奥村 光舟
 Seto Takuma = 濑户 拓马
 Yui Kaoru = 由井 薰
 Yuuki Masashi = 结城 将司
-Azuma = 东
+
 
 // 经理
 Watanabe Hisashi = 渡边 久志
@@ -61,12 +61,17 @@ Mukai Taiyou = 向井 太阳
 // 白龙高中
 Mima Souichirou = 美马 总一郎
 
-// 樱泽高中
+// 其他学校
 Sakurazawa High = 樱泽 高中
+Oya Metropolitan = 王谷高中
 
 // 其他名词
 Misawa = 御泽
 Harucchi = 小春
+Nabe = 渡边
+Azuma = 东
+Nori = 阿宪
+Zono = 前园
 
 通用词条
 cutter = 卡特球
@@ -81,5 +86,6 @@ Ryou-san = 亮前辈
 yips
 Boss
 Cap
+
 
 
