@@ -63,11 +63,13 @@ Mima Souichirou = 美马 总一郎
 // 其他学校
 Sakurazawa High = 樱泽高中
 Oya Metropolitan = 王谷高中
+Oya = 王谷
 Seiko High = 成孔学园
 
 // 其他名词
 Misawa = 御泽
 Harucchi = 小春
+Bakamura = 笨蛋泽村
 Nabe = 渡边
 Azuma = 东
 Nori = 阿宪
@@ -86,6 +88,7 @@ dead ball = 触身球
 yips
 Boss
 Cap
+
 
 
 
