@@ -1,6 +1,6 @@
 维护者：一个搬运工
-版本号：1.0
-更新时间：2025-09-28
+版本号：1.0.1
+更新时间：2025-09-29
 
 词条
 
@@ -63,6 +63,7 @@ Mima Souichirou = 美马 总一郎
 // 其他学校
 Sakurazawa High = 樱泽 高中
 Oya Metropolitan = 王谷高中
+Seiko High = 成孔学园
 
 // 其他名词
 Misawa = 御泽
@@ -85,6 +86,7 @@ dead ball = 触身球
 yips
 Boss
 Cap
+
 
 
 
