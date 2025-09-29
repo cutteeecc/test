@@ -61,7 +61,7 @@ Mukai Taiyou = 向井 太阳
 Mima Souichirou = 美马 总一郎
 
 // 其他学校
-Sakurazawa High = 樱泽 高中
+Sakurazawa High = 樱泽高中
 Oya Metropolitan = 王谷高中
 Seiko High = 成孔学园
 
@@ -86,6 +86,7 @@ dead ball = 触身球
 yips
 Boss
 Cap
+
 
 
 
