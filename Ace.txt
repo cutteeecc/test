@@ -79,6 +79,7 @@ Azuma = 东
 Nori = 阿宪
 Zono = 前园
 Kyahaha = 呀哈哈
+Kyahahaha = 呀哈哈哈
 Masa-san = 雅前辈
 Ryou-san = 亮前辈
 
@@ -91,9 +92,11 @@ dead ball = 触身球
 禁翻词条
 yips
 Boss
+boss
 Cap
-
-
+Omega
+Alpha
+Beta
 
 
 
