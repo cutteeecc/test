@@ -82,6 +82,7 @@ Kyahaha = 呀哈哈
 Kyahahaha = 呀哈哈哈
 Masa-san = 雅前辈
 Ryou-san = 亮前辈
+Jun-san = 纯前辈
 
 通用词条
 cutter = 卡特球
@@ -97,6 +98,7 @@ Cap
 Omega
 Alpha
 Beta
+
 
 
 
