@@ -72,6 +72,7 @@ Seiko High = 成孔学园
 
 // 其他名词
 Misawa = 御泽
+Mochi = 仓持
 Harucchi = 小春
 Bakamura = 笨蛋泽村
 Nabe = 渡边
@@ -83,12 +84,14 @@ Kyahahaha = 呀哈哈哈
 Masa-san = 雅前辈
 Ryou-san = 亮前辈
 Jun-san = 纯前辈
+Rei-chan = 礼酱
 
 通用词条
 cutter = 卡特球
 knuckleball = 蝴蝶球
 batter = 打者
 dead ball = 触身球
+senpai = 前辈
 
 禁翻词条
 yips
@@ -96,8 +99,12 @@ Boss
 boss
 Cap
 Omega
+omega
 Alpha
+alpha
 Beta
+beta
+
 
 
 
