@@ -19,10 +19,14 @@ Yuuki Tetsuya = 结城 哲也
 Masuko Tooru = 增子 透
 Tanba Kouichirou = 丹波 光一郎
 Maezono Kenta = 前园 健太
-Higasa Shouji = 樋笠 昭二
 Kawakami Norifumi = 川上 宪史
-Hideaki Toujou = 东条 秀明
 Shirasu Kenjiro = 白州 健二郎
+Higasa Shouji = 樋笠 昭二
+Asou Takeru = 麻生 尊
+Ono Hiroshi = 小野 弘
+Seki Naomichi = 关 直道
+Hideaki Toujou = 东条 秀明
+
 Okumura Koushuu = 奥村 光舟
 Seto Takuma = 濑户 拓马
 Yui Kaoru = 由井 薰
@@ -104,6 +108,7 @@ Alpha
 alpha
 Beta
 beta
+
 
 
 
