@@ -26,11 +26,13 @@ Asou Takeru = 麻生 尊
 Ono Hiroshi = 小野 弘
 Seki Naomichi = 关 直道
 Hideaki Toujou = 东条 秀明
+Kanemaru Shinji = 金丸 信二
 
 Okumura Koushuu = 奥村 光舟
 Seto Takuma = 濑户 拓马
 Yui Kaoru = 由井 薰
 Yuuki Masashi = 结城 将司
+Asada Hirofumi = 浅田 浩文
 
 
 // 经理
@@ -42,7 +44,7 @@ Watanabe Hisashi = 渡边 久志
 
 // 亲友团
 Sawamura Eitoku = 泽村 荣德
-Wakana Aotsuki = 苍月若菜
+Wakana Aotsuki = 苍月 若菜
 
 // 教练团
 Kataoka Tesshin = 片冈 铁心
